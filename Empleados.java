@@ -5,6 +5,7 @@ public class Empleados {
 
     public Empleados() {
         empleados_lista = new ArrayList<>();
+        darAlta();
     }
 
     public void listadoEmpleados() {
